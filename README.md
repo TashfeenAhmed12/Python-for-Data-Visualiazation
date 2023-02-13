@@ -4,3 +4,8 @@
 ## Objectives
 
 Plot interactive single and multiple line plots, histograms, bar charts, bubble charts, sunbursts, and scatterplots to understand data and make insightful visuals for stakeholders
+
+## Files
+HTML file contains outputs
+
+ipynb contains code
